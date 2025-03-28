@@ -1,0 +1,19 @@
+{
+  "name": "shoppy_globe_backend",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "backend apis for shoppyglobe",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sharad Vamsi T",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.13.0",
+    "nodemon": "^3.1.9"
+  }
+}
