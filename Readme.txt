@@ -1,5 +1,7 @@
 In this project developed backend apis for a e-commerce type website named shoppyglobe.
 
+github link: "https://github.com/sharadvamsi/shoppyglobe_backend"
+
 used MVC architecture to maintain code readability and make them easy to use and modify
 
 product routes:
